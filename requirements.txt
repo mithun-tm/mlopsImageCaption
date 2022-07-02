@@ -1,5 +1,5 @@
 gunicorn
 numpy
 pandas
-tensorflow
+--no-cache-dir tensorflow
 Flask
