@@ -1,2 +1,1 @@
-# mlopsImageCaption
-image captioning model
+# MLOpsImage
