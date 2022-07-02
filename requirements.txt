@@ -1,4 +1,5 @@
 gunicorn
+numpy
 pandas
 tensorflow
 Flask
